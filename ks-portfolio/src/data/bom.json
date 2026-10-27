@@ -1,0 +1,75 @@
+{
+ "project": "Two (2) Storey Residence",
+ "group": 4,
+ "members": [
+  "Sheira Mae A. Dacasin",
+  "Kia G. Sardona"
+ ],
+ "course_in_workbook": "CEQSRV1D - CIVP31",
+ "areas": {
+  "ground": 58.25,
+  "second": 89.1,
+  "workbook_reported_total_floor_area": 264.65
+ },
+ "area_note": "Workbook-reported total floor area. Not recalculated; ground + 2nd floor entries do not sum to this value.",
+ "estimated_cost_per_sqm": 5700.33,
+ "estimated_construction_cost": 1508592.0848888888,
+ "subtotals": [
+  {
+   "label": "SUB-TOTAL I",
+   "material": 34890.520000000004,
+   "labor": 119108.5845,
+   "equipment": 11910.85845,
+   "ocm": 37512.466174999994,
+   "total": 203422.42912500002
+  },
+  {
+   "label": "SUB-TOTAL II",
+   "material": 205131.75000000003,
+   "labor": 75259.84461111111,
+   "equipment": 7525.98446111111,
+   "ocm": 42040.16469166665,
+   "total": 329821.5307638888
+  },
+  {
+   "label": "SUB-TOTAL III",
+   "material": null,
+   "labor": 26285.8,
+   "equipment": 2628.58,
+   "ocm": 3942.87,
+   "total": 32857.24999999999
+  },
+  {
+   "label": "SUB-TOTAL IV.",
+   "material": 96801.9,
+   "labor": 58738.1,
+   "equipment": 5873.8099999999995,
+   "ocm": 23331,
+   "total": 184744.81
+  },
+  {
+   "label": "SUB-TOTAL V.",
+   "material": 81204,
+   "labor": 31010.801999999996,
+   "equipment": 3101.0802,
+   "ocm": 16832.2203,
+   "total": 132148.10249999998
+  },
+  {
+   "label": "SUB-TOTAL VI. (6.1)",
+   "material": 17092.5,
+   "labor": 137175,
+   "equipment": 13717.5,
+   "ocm": 23140.125,
+   "total": 191125.125
+  },
+  {
+   "label": "SUB-TOTAL VI. (6.2-6.3)",
+   "material": 104542,
+   "labor": 251399.62999999998,
+   "equipment": 25139.962999999996,
+   "ocm": 53391.2445,
+   "total": 434472.83749999997
+  }
+ ]
+}
